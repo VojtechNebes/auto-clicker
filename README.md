@@ -3,6 +3,8 @@ Auto-clicker made in python.
 
 Uses [Qt5](https://pypi.org/project/PyQt5/) for UI and [Pynput](https://pypi.org/project/pynput/) to emulate the mouse clicks.
 
+Might need administrator privileges on some operating systems for some reason ¯\_(ツ)_/¯
+
 # Usage
 There are 4 settings total:
 ## Start-stop keybind
